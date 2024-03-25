@@ -1,0 +1,692 @@
+[
+  {
+    "name": "AARON",
+    "surname": "MOCHIKWANE",
+    "designation": "MECHANIC ASSISTANT",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "ABEGAIL",
+    "surname": "MODIMOENG",
+    "designation": "STORES ASSISTANT",
+    "department": "FINANCE"
+  },
+  {
+    "name": "ABRAM",
+    "surname": "MOSELA",
+    "designation": "HR MANAGER",
+    "department": "HUMAN RESOURCES"
+  },
+  {
+    "name": "ALEXANDRIA",
+    "surname": "MATSHOGO",
+    "designation": "SUPERVISOR",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "ANDRIES",
+    "surname": "SELEBI",
+    "designation": "BIT GRINDER",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "ARTHUR",
+    "surname": "SEGAPO",
+    "designation": "ASSESSOR",
+    "department": "HUMAN RESOURCES"
+  },
+  {
+    "name": "BAFANA",
+    "surname": "MNYAKENI",
+    "designation": "MECHANIC",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "BAKANG",
+    "surname": "TEKE",
+    "designation": "WATER BOWSER OPERATOR",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "BEYER",
+    "surname": "MOTSOMANE",
+    "designation": "DRILL RIG ASSISTANT",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "BONNO",
+    "surname": "TAU",
+    "designation": "ENGINEERING CLERK",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "BONTLE",
+    "surname": "MOTHONI",
+    "designation": "DIESEL BOWSER ASSISTANT",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "BOTSHELO",
+    "surname": "PETERS",
+    "designation": "DRILL RIG ASSISTANT",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "CHRISTOPHER",
+    "surname": "MAMABOLO",
+    "designation": "MECHANIC",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "COLLEN",
+    "surname": "MADIRE",
+    "designation": "DRILL RIG OPERATOR",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "CONFIDANCE",
+    "surname": "KAU",
+    "designation": "JUNIOR SAFETY OFFICER",
+    "department": "SAFETY"
+  },
+  {
+    "name": "DANIEL",
+    "surname": "TSHEPHE",
+    "designation": "SAFETY OFFICER",
+    "department": "SAFETY"
+  },
+  {
+    "name": "DIPUO",
+    "surname": "RAKOMA",
+    "designation": "WATER BOWSER ASSISTANT",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "DITHUSO",
+    "surname": "MODIBEDI",
+    "designation": "DRILL RIG ASSISTANT",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "DONALD",
+    "surname": "DIBI",
+    "designation": "MECHANIC",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "EDDY",
+    "surname": "RASEPAE",
+    "designation": "MECHANIC ASSISTANT",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "EDWARD",
+    "surname": "TSHEOLE",
+    "designation": "BIT GRINDER",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "EDWIN",
+    "surname": "PHIRI",
+    "designation": "BOILERMAKER",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "ELVIS",
+    "surname": "LEKALAKALA",
+    "designation": "DRILL MECHANIC",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "ELVIS",
+    "surname": "SHABALALA",
+    "designation": "SUPERVISOR",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "ERNEST",
+    "surname": "SESINYI",
+    "designation": "DRILL RIG ASSISTANT",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "FLORAH",
+    "surname": "MOSHABELA",
+    "designation": "DRILL RIG ASSISTANT",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "GERALD",
+    "surname": "PHEFO",
+    "designation": "DRILL RIG OPERATOR",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "GLADWIN",
+    "surname": "BUDA",
+    "designation": "DRILL RIG OPERATOR",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "GOMOLEMO",
+    "surname": "DIRE",
+    "designation": "CONTROL ROOM OPERATOR",
+    "department": "FINANCE"
+  },
+  {
+    "name": "GOSEGO",
+    "surname": "SITO",
+    "designation": "DRILL RIG ASSISTANT",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "HECTOR",
+    "surname": "MBUYANE",
+    "designation": " PIT SUPERINTENDENT",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "JACQUES",
+    "surname": "JOUBERT",
+    "designation": "OPERATIONS MANAGER",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "JOHANNA",
+    "surname": "DIKHUTSO",
+    "designation": "HOLE SURVEYOR",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "JOHN",
+    "surname": "MMAGOA",
+    "designation": "DRILL RIG ASSISTANT",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "JOHN",
+    "surname": "TEKA",
+    "designation": "DRILL RIG OPERATOR",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "JOSEPH",
+    "surname": "PHETO",
+    "designation": "DRILL RIG OPERATOR",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "JULIA",
+    "surname": "MOLOTO",
+    "designation": "STORES ASSISTANT",
+    "department": "FINANCE"
+  },
+  {
+    "name": "KAGISO",
+    "surname": "TSHILWANE",
+    "designation": "WATER BOWSER OPERATOR",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "KAGISO",
+    "surname": "KGAILE",
+    "designation": "WATER BOWSER OPERATOR",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "KAMOGELO",
+    "surname": "SEETE",
+    "designation": "DRILL RIG ASSISTANT",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "KARABO",
+    "surname": "SEELETSO",
+    "designation": "DRILL RIG ASSISTANT",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "KARABO",
+    "surname": "RAMAGOGODI",
+    "designation": "DRIVER",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "KARABO",
+    "surname": "DISWAI",
+    "designation": "SUPERVISOR",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "KATLEGO",
+    "surname": "THEKWE",
+    "designation": "DRILL RIG ASSISTANT",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "KEGOMODITSWE",
+    "surname": "MOKOTEDI",
+    "designation": "DRILL RIG ASSISTANT",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "KENNY",
+    "surname": "MASHABELA",
+    "designation": "DRILL RIG OPERATOR",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "KESENTSENG",
+    "surname": "PILANE",
+    "designation": "WATER BOWSER ASSISTANT",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "KEVIN",
+    "surname": "TLHASI",
+    "designation": "IT TRAINEE",
+    "department": "FINANCE"
+  },
+  {
+    "name": "KGABO",
+    "surname": "SETATI",
+    "designation": "FINANCE MANAGER",
+    "department": "FINANCE"
+  },
+  {
+    "name": "KGOLAGANO",
+    "surname": "MATSHEGO",
+    "designation": "MANAGING DIRECTOR",
+    "department": "EXECUTIVE"
+  },
+  {
+    "name": "KGOTHATSO",
+    "surname": "TEKE",
+    "designation": "DRILL RIG ASSISTANT",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "KOKETSO",
+    "surname": "MOROKE",
+    "designation": "CONTROL ROOM OPERATOR",
+    "department": "FINANCE"
+  },
+  {
+    "name": "LAURANCE",
+    "surname": "LEKGETHO",
+    "designation": "DRILL RIG OPERATOR",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "LEHLOHONOLO",
+    "surname": "MAKGATO",
+    "designation": "MECHANIC",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "LERATO",
+    "surname": "MOANAKWENA ",
+    "designation": "CONTROL ROOM SUPERVISOR ",
+    "department": "FINANCE"
+  },
+  {
+    "name": "LINDEERT",
+    "surname": "VAN DEN HEEVER",
+    "designation": "SENIOR MECHANIC",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "LUCAS",
+    "surname": "MAKGALE",
+    "designation": "MECHANIC ASSISTANT",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "LUCAS ",
+    "surname": "MPOSI",
+    "designation": "MECHANIC",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "MAGDELINE",
+    "surname": "MOLEFE",
+    "designation": "WORKSHOP ASSISTANT",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "MAKHETHA",
+    "surname": "MODISE",
+    "designation": "COMPUTER SCIENTIST",
+    "department": "FINANCE"
+  },
+  {
+    "name": "MALULEKE",
+    "surname": "SIMON",
+    "designation": "GET SUPERVISOR",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "MASILO",
+    "surname": "MANABALALA",
+    "designation": "SUPERVISOR",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "MATLHOGONOLO",
+    "surname": "LEGOTSA",
+    "designation": "DIESEL BOWSER ASSISTANT",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "MICHAEL",
+    "surname": "PHALANE",
+    "designation": "MECHANIC",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "MICHAEL",
+    "surname": "MANTSO",
+    "designation": "DRIVER",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "MIRRIAM",
+    "surname": "MALEBYE",
+    "designation": "HOLE SURVEYOR",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "MMALESO",
+    "surname": "SEGOE",
+    "designation": "DIESEL BOWSER ASSISTANT",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "MOGOTSI",
+    "surname": "MZINYATHI",
+    "designation": "DRILL RIG ASSISTANT",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "MOIPONE",
+    "surname": "MATLHABADIE",
+    "designation": "CONTROL ROOM OPERATOR",
+    "department": "FINANCE"
+  },
+  {
+    "name": "MOSES",
+    "surname": "TSHWAGONG",
+    "designation": "DRILL RIG OPERATOR",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "MOSIMANEGAPE",
+    "surname": "KHUNOU",
+    "designation": "DRILL RIG OPERATOR",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "MPHO",
+    "surname": "LETHEO",
+    "designation": "HOLE SURVEYOR",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "MUNYARADZI",
+    "surname": "MASHINGAIDZE",
+    "designation": "MECHANIC",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "NEHEMIA",
+    "surname": "SEREKWANE",
+    "designation": "LOGISTICS DRIVER",
+    "department": "FINANCE"
+  },
+  {
+    "name": "NICHOLAS",
+    "surname": "MOLEFE",
+    "designation": "DIESEL BOWSER OPERATOR",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "NICHOLAS ",
+    "surname": "UNDERHILL",
+    "designation": "DRILL RIG ASSISTANT",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "NICHOLAS NEKOLA",
+    "surname": "MATHIBELI",
+    "designation": "TECHNICIAN",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "NIMROD",
+    "surname": "RAMERAFE",
+    "designation": "HOLE SURVEYOR",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "OBAKENG",
+    "surname": "PILANE",
+    "designation": "HOLE SURVEYOR",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "OBED",
+    "surname": "RAMADIRO",
+    "designation": "DIESEL BOWSER OPERATOR",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "ODIRILE",
+    "surname": "RASEPAE",
+    "designation": "DRILL RIG ASSISTANT",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "ORATILE",
+    "surname": "MOTAUNG",
+    "designation": "WATER BOWSER ASSISTANT",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "PABALLO FANA",
+    "surname": "NKOSI",
+    "designation": "DRIVER",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "PATIENCE",
+    "surname": "SEBITSO",
+    "designation": "STORES ASSISTANT",
+    "department": "FINANCE"
+  },
+  {
+    "name": "PATRICK",
+    "surname": "BANDA",
+    "designation": "DRILL RIG OPERATOR",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "PHEMELO",
+    "surname": "LERUMO",
+    "designation": "IT TECHNICIAN",
+    "department": "FINANCE"
+  },
+  {
+    "name": "PHINEAS",
+    "surname": "MSIBI",
+    "designation": "DRILL RIG OPERATOR",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "PIET",
+    "surname": "TAUYATSWALA",
+    "designation": "DRILL RIG OPERATOR",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "REAGAN",
+    "surname": "DIATSHWANA",
+    "designation": "DRILL RIG OPERATOR",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "RENEILWE",
+    "surname": "PILANE",
+    "designation": "SUPERVISOR",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "RETHABILE",
+    "surname": "SEMENYA",
+    "designation": "DRILL RIG ASSISTANT",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "SAKHILE",
+    "surname": "MABASO",
+    "designation": "DRILL RIG OPERATOR",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "SAMUEL",
+    "surname": "RAKODI",
+    "designation": "G.E.T OPERATIVE",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "SARAH",
+    "surname": "MOERANE",
+    "designation": "GENERAL WORKER",
+    "department": "HUMAN RESOURCES"
+  },
+  {
+    "name": "SEABELO",
+    "surname": "MODISE",
+    "designation": "BIT GRINDER",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "SETH",
+    "surname": "PHETO",
+    "designation": "MECHANIC ASSISTANT",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "SHOLOFELANG ",
+    "surname": "TSHEOLE",
+    "designation": "BOILERMAKER ASSISTANT ",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "SIFISO",
+    "surname": "NKONYANE",
+    "designation": "DRILL RIG OPERATOR",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "SITHEMBISO",
+    "surname": "HLOKOHLA",
+    "designation": "BOILERMAKER",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "STEPHANUS ",
+    "surname": "SCHUTE",
+    "designation": "ENGINEERING FOREMAN",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "THABANG",
+    "surname": "NCUBE",
+    "designation": "DRILL RIG ASSISTANT",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "THABANG",
+    "surname": "PHETO",
+    "designation": "DRILL RIG ASSISTANT",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "THABISO",
+    "surname": "RAMOSESANE",
+    "designation": "DRILL RIG OPERATOR",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "THAPEDI",
+    "surname": "MOLOANTOA",
+    "designation": "DRILL RIG ASSISTANT",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "THAPELO",
+    "surname": "KUTU",
+    "designation": "DIESEL BOWSER OPERATOR",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "THEMBI",
+    "surname": "MOENG",
+    "designation": "HOLE SURVEYOR- C/ROOM",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "TSHABALALA",
+    "surname": "JEREMIA",
+    "designation": "MECHANIC",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "TSHEPANG",
+    "surname": "DITHARE",
+    "designation": "MECHANIC ASSISTANT",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "TSHEPO",
+    "surname": "MOSHOALIBA",
+    "designation": "MECHANIC",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "TUMELO",
+    "surname": "SOMPHEKWA",
+    "designation": "DRILL RIG OPERATOR",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "VICTOR",
+    "surname": "MHLONGO",
+    "designation": "SUPERVISOR",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "VINOLIA",
+    "surname": "DIAMILE",
+    "designation": "STORES ADMINISTRATOR",
+    "department": "FINANCE"
+  },
+  {
+    "name": "WERNER",
+    "surname": "VAN DER WESTHUIZEN",
+    "designation": "PLANT MANAGER",
+    "department": "ENGINEERING"
+  },
+  {
+    "name": "WILLIAM",
+    "surname": "KGOMO",
+    "designation": "DRILL RIG OPERATOR",
+    "department": "PRODUCTION"
+  },
+  {
+    "name": "ZAKHELE",
+    "surname": "NGUTSHANE",
+    "designation": "SITE MANAGER",
+    "department": "PRODUCTION"
+  }
+]
