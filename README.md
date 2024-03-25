@@ -12,3 +12,6 @@ The technologies used in the provided project for completing the given tasks are
 4. JSON (JavaScript Object Notation): Used for storing and exchanging data between the script and JSON files.
 
 5. Git: Used for tracking changes in code.
+
+
+![image](https://github.com/Kiloechoalpha/Back-End-Developer-Test-Solution/assets/125870519/652213d6-ddc9-477e-8b9b-3cd672ca5f5b)
