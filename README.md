@@ -14,4 +14,4 @@ The technologies used in the provided project for completing the given tasks are
 5. Git: Used for tracking changes in code.
 
 
-![image](https://github.com/Kiloechoalpha/Back-End-Developer-Test-Solution/assets/125870519/652213d6-ddc9-477e-8b9b-3cd672ca5f5b)
+![image](https://github.com/Kiloechoalpha/Back-End-Developer-Test-Solution/assets/125870519/dd39f91e-8227-4d9e-84a7-4d09b1d4e380)
