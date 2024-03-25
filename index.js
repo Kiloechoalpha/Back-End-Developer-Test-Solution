@@ -48,3 +48,15 @@ removeDuplicates();
 createCSV();
 sortUsers();
 countReports();
+
+
+/*
+*    Instructions for execution
+*
+* Install Node.js .
+* Place the`usersBackEnd.json` file in the same directory as this script.
+* Execute the script using Node.js: `node script.js`.
+* The script will generate `uniqueUsers.json`, `usersCount.csv`, and `orderedUsers.json` in the same directory.
+*
+*
+*/
