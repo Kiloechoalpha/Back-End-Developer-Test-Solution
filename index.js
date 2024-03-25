@@ -24,3 +24,11 @@ function createCSV() {
 
     fs.writeFileSync('usersCount.csv', csvContent);
 }
+
+
+// Task 3: Sort unique users by name and save to orderedUsers.json
+function sortUsers() {
+    const uniqueUsers = require('./uniqueUsers.json');
+    uniqueUsers.sort((a, b) => a.name.localeCompare(b.name));
+    fs.writeFileSync('orderedUsers.json', JSON.stringify(uniqueUsers, null, 2));
+}
