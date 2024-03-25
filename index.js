@@ -32,3 +32,14 @@ function sortUsers() {
     uniqueUsers.sort((a, b) => a.name.localeCompare(b.name));
     fs.writeFileSync('orderedUsers.json', JSON.stringify(uniqueUsers, null, 2));
 }
+
+
+// Task 4: Count total number of people reporting to Michael Phalane in the ENGINEERING department
+function countReports() {
+    const uniqueUsers = require('./uniqueUsers.json');
+    const michaelReports = uniqueUsers.filter(user => user.department === "ENGINEERING" && (user.manager === "Michael Phalane" || user.manager === "Michael Phalane "));
+    const totalReports = michaelReports.reduce((acc, user) => acc + user.reports, 0);
+    console.log(`Total number of people reporting to Michael Phalane: ${totalReports}`);
+}
+
+
