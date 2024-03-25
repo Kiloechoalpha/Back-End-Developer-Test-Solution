@@ -43,3 +43,8 @@ function countReports() {
 }
 
 
+// Execute tasks
+removeDuplicates();
+createCSV();
+sortUsers();
+countReports();
